@@ -5,4 +5,8 @@
 
 ## Spring
 * [IoC](https://github.com/JeongseokNam/TIL/blob/main/spring/IoC.md)
-* [DI-작성중](https://github.com/JeongseokNam/TIL/blob/main/spring/DI.md)
+* [DI](https://github.com/JeongseokNam/TIL/blob/main/spring/DI.md)
+
+
+## list memo
+* SPR 원칙
