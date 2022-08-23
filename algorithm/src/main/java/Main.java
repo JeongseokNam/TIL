@@ -7,8 +7,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("알고리즘 테스트 시작");
 
-        소수_만들기 s = new 소수_만들기();
-        int[] arr = {1,2,7,6,4};
+        최소직사각형 s = new 최소직사각형();
+        int[][] arr = {{60, 50}, {30, 70}, {60, 30}, {80, 40}};
 
         System.out.println("결과 : "+s.solution(arr));
         System.out.println("알고리즘 테스트 끝");
