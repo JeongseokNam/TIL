@@ -1,6 +1,7 @@
 # TIL
 ## JAVA
 * [변수](https://github.com/JeongseokNam/TIL/blob/main/java/%EB%B3%80%EC%88%98.md)
+* [데이터 타입](https://github.com/JeongseokNam/TIL/blob/main/java/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
 * [람다식](https://github.com/JeongseokNam/TIL/blob/main/java/%EB%9E%8C%EB%8B%A4%EC%8B%9D.md)
 
 ## Spring
