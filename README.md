@@ -12,7 +12,6 @@
 ### Linux   
 
  * [명령어](#https://github.com/JeongseokNam/TIL/blob/main/OS/Linux/%EB%AA%85%EB%A0%B9%EC%96%B4/%EB%AA%A8%EC%9D%8C.md)
- * 
    
 ## Algorithm
 ### JAVA
