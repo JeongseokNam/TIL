@@ -11,12 +11,13 @@
 ## OS
 ### Linux   
 
-* [명령어](https://github.com/JeongseokNam/TIL/blob/main/OS/Linux/%EB%AA%85%EB%A0%B9%EC%96%B4/%EB%AA%A8%EC%9D%8C.md)
+* [명령어](https://github.com/JeongseokNam/TIL/blob/main/OS/Linux/%EB%AA%85%EB%A0%B9%EC%96%B4%EB%AA%A8%EC%9D%8C.md)
   * 디렉토리
     * [pwd](https://github.com/JeongseokNam/TIL/blob/main/OS/Linux/%EB%AA%85%EB%A0%B9%EC%96%B4/pwd%EC%83%81%EC%84%B8.md)
     * [cd](https://github.com/JeongseokNam/TIL/blob/main/OS/Linux/%EB%AA%85%EB%A0%B9%EC%96%B4/cd%EC%83%81%EC%84%B8.md)
     * [ls](https://github.com/JeongseokNam/TIL/blob/main/OS/Linux/%EB%AA%85%EB%A0%B9%EC%96%B4/ls%EC%83%81%EC%84%B8.md)
     * [mkdir](https://github.com/JeongseokNam/TIL/blob/main/OS/Linux/%EB%AA%85%EB%A0%B9%EC%96%B4/mkdir%EC%83%81%EC%84%B8.md)
+* [단축키](https://github.com/JeongseokNam/TIL/blob/main/OS/Linux/%EB%8B%A8%EC%B6%95%ED%82%A4.md)
 ## Algorithm
 ### JAVA
 * [programmers](https://github.com/JeongseokNam/TIL/tree/main/algorithm/src/main/java/programmers)
