@@ -24,5 +24,6 @@ yum 은 central repository 를 통해 rpm 을 배포하고 의존성 관리를 �
    rpm 을 로컬에 다운로드하고 yum localinstall 로 설치하면 된다.   
    rpm -ivh 로 설치할 수도 있지만 yum  으로 작업하면 transaction 기록이 남으므로 yum history 를 사용하여 rollback 이 가능하다.   
    rpm 제작사의 서명이 없어서 에러가 날수 있으므로 --nogpgcheck 옵션을 추가해야 할 경우도 있다.   
-
+- `list` 설치 가능한 리스트 출력
+    > *(별표) 를 사용한 리스트 출력시 '(작은따옴표) 로 감쌀것.
 # 작성중 ...
