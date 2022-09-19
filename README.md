@@ -14,4 +14,4 @@
 * [단축키](https://github.com/JeongseokNam/TIL/blob/main/OS/Linux/%EB%8B%A8%EC%B6%95%ED%82%A4.md)
 ## Algorithm
 ### JAVA
-* [programmers](https://github.com/JeongseokNam/TIL/tree/main/algorithm/src/main/java/programmers)
+* [programmers](https://github.com/JeongseokNam/TIL/tree/main/algorithm/src/main/java)
