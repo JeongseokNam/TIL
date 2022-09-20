@@ -1,16 +1,14 @@
+
 import programmers.*;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.logging.ConsoleHandler;
+import java.util.logging.Logger;
+
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("알고리즘 테스트 시작");
+        Logger logger = Logger.getLogger(Main.class.getName());
+        logger.info(String.valueOf((자연수_뒤집어_배열로_만들기.solution(12345))));
 
-        최소직사각형 s = new 최소직사각형();
-        int[][] arr = {{60, 50}, {30, 70}, {60, 30}, {80, 40}};
-
-        System.out.println("결과 : "+s.solution(arr));
-        System.out.println("알고리즘 테스트 끝");
     }
 }
