@@ -7,8 +7,6 @@ Q
 !OS/Linux/명령어/touch상세.md,a\9\a9cf87f401e8070b628d6983f64a7de51308a62f
 Q
 !OS/Linux/명령어/which상세.md,0\1\01616e82aab80c1929cc52ac0b13c574e8116999
-Q
-!algorithm/src/main/java/README.md,1\4\148809531ec172bb74c7d6f14b0e164685f0e44d
 K
 OS/Linux/명령어모음.md,6\d\6d78971c4f8648c290288fd518408f86cf88a11d
 T
