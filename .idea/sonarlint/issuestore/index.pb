@@ -37,3 +37,13 @@ Q
 Palgorithm/src/main/java/programmers/자연수_뒤집어_배열로_만들기.java,f\e\fe08c804bd5d64fd5da0f629a8d5cad9356fcab7
 Q
 !algorithm/src/main/java/Main.java,c\b\cbfe174b859b4c965825dbc8737275e7b8552a7a
+F
+OS/Linux/centOS/yum.md,c\0\c06fc513771e3a720d815f422f5bdeb8373af412
+P
+ OS/Linux/명령어/find상세.md,4\0\405770072abb776e18f8b322df998bc3b787d072
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+K
+OS/Linux/명령어모음.md,6\d\6d78971c4f8648c290288fd518408f86cf88a11d
+g
+7java/jsp HTTPS단순리다이렉트 안될때jstl로.md,d\c\dc98d234f7770c5c2d5a369dd65b6b4dba550886
