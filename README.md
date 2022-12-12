@@ -15,3 +15,6 @@
 ## Algorithm
 ### JAVA
 * [programmers](https://github.com/JeongseokNam/TIL/tree/main/algorithm/src/main/java)
+
+## 공부용 링크
+* [워드(Poi XWPF)](https://poi.apache.org/apidocs/dev/org/apache/poi/xwpf/usermodel/XWPFDocument.html)
