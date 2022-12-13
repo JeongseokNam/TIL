@@ -18,3 +18,4 @@
 
 ## 공부용 링크
 * [워드(Poi XWPF)](https://poi.apache.org/apidocs/dev/org/apache/poi/xwpf/usermodel/XWPFDocument.html)
+* [PDF to JPG](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=bb_&logNo=221329660551)
