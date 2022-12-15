@@ -16,6 +16,7 @@
 ### JAVA
 * [programmers](https://github.com/JeongseokNam/TIL/tree/main/algorithm/src/main/java)
 
-## 공부용 링크
+## 참고용 링크
 * [워드(Poi XWPF)](https://poi.apache.org/apidocs/dev/org/apache/poi/xwpf/usermodel/XWPFDocument.html)
 * [PDF to JPG](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=bb_&logNo=221329660551)
+* [아파치 http 리다이렉트](https://cheershennah.tistory.com/157)
