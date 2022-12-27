@@ -1,14 +1,19 @@
 
+import javaByComparison.fizzBuzz.ConsoleBasedFizzBuzz;
+import javaByComparison.fizzBuzz.FizzBuzz;
 import programmers.*;
 
+import java.util.Arrays;
+import java.util.Scanner;
 import java.util.logging.ConsoleHandler;
 import java.util.logging.Logger;
 
 
 public class Main {
     public static void main(String[] args) {
-        Logger logger = Logger.getLogger(Main.class.getName());
-        logger.info(String.valueOf((자연수_뒤집어_배열로_만들기.solution(12345))));
-
+        Scanner scan = new Scanner(System.in);
+        int max = scan.nextInt();
+        FizzBuzz fizzBuzz = new ConsoleBasedFizzBuzz();
+        fizzBuzz.print(1,max);
     }
 }
