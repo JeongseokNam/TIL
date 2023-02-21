@@ -4,15 +4,17 @@ import programmers.lv_0.최댓값_만들기_1;
 
 public class Main {
     public static void main(String[] args) {
-        double price = 150000;
-        double discountPercent = 0;
-        if (price>=500000){
-            discountPercent= 20;
-        } else if (price>=300000) {
-            discountPercent= 10;
-        } else if (price>=100000) {
-            discountPercent= 5;
-        }
-        System.out.println((int) (price-(price*discountPercent)/100)); 
+        String answer = "hello";
+        String my_string = "hello";
+        System.out.println(answer.charAt(1));
+        System.out.println(my_string.charAt(2));
+        System.out.println(answer.charAt(2));
+        System.out.println(my_string.charAt(1));
+        answer = "I love you";
+        my_string = "I love you";
+        System.out.println(answer.charAt(3));
+        System.out.println(my_string.charAt(6));
+        System.out.println(answer.charAt(6));
+        System.out.println(my_string.charAt(3));
     }
 }
