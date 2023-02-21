@@ -22,7 +22,7 @@
 
 ## 빈 팩토리와 애플리케이션 컨텍스트
 빈 팩토리와 애플리케이션 컨택스트 관계   
-![beanFactory](../assets/image/spring/beanFactory%20ApplictionContext.png)  
+![beanFactory](../../assets/image/spring/beanFactory%20ApplictionContext.png)  
 * 빈팩토리
   * 스프링 컨테이너의 최상위 인터페이스이다.
   * 스프링 빈을 관리하고 조회하는 역할을 담당한다.
@@ -44,14 +44,14 @@
 * 스프링 컨테이너가 관리하는 이런 오브젝트는 빈이라 부른다.   
 * 설정메타 정보는 이 빈을 어떻게 만들고 어떻게 동작하게 할 것인가에 관한 정보이다.   
 * 스프링 컨테이너는 자바코드, XML, Groovy등 다양한 형식의 설정 정보를 받아들일 수 있도록 유연하게 설계되어 있다.   
-![beanConfig](../assets/image/spring/beanConfig.png)   
+![beanConfig](../../assets/image/spring/beanConfig.png)   
 
 ## 스프링 빈 설정 메타 정보
 
 * 스프링은 어떻게 이런 다양한 형식을 지원하는 것일까? 그 중심에는 BeanDefinition 이라는 추상화가 있다.
 * 쉽게 말하자면 XML, 자바 코드를 읽어서 BeanDefinition 을 만든다. 따라서 스프링 컨테이너는 오직 BeanDefinition만 알면 된다.
 * BeanDefinition을 빈 설정 메타 정보라 하는데, @Bean과 <bean>당 각각 하나씩 메타 정보가 생성된다.
-  ![BeanDefinition](../assets/image/spring/beanDefinition.png)
+  ![BeanDefinition](../../assets/image/spring/beanDefinition.png)
 * AnnotationConfigApplicationContext는 AnnotatedBeanDefinitionReader를 사용해서 AppConfig.class를 읽고 BeanDefinition을 생성한다.
 * GenericXmlApplicationContext는 XmlBeanDefinitionReader를 사용해서 appConfig.xml 설정 정보를 읽고 BeanDefinition을 생성한다.
 * 새로운 형식의 설정 정보가 추가되면, XxxBeanDefinitionReader를 만들어서 BeanDefinition을 생성하면 된다.
