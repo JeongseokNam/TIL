@@ -1,4 +1,0 @@
-package JAVA;
-
-interface Movable {
-}
